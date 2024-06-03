@@ -1,0 +1,95 @@
+body {
+    background: linear-gradient(to right, #ff0000, #4CAF50);
+}
+
+
+h1 {
+    
+    border: 2px solid red ;
+    background-color: tan;
+    -webkit-text-fill-color: orange;
+    margin: 5%;
+    text-align: center;
+    
+}
+
+
+button {
+    border: 2px solid darkred ;
+    background-color: pink;
+    -webkit-text-fill-color: darkred}
+
+
+
+
+h4 {
+    border: 2px solid red ;
+    background-color: tan;
+    -webkit-text-fill-color: orange;
+    margin: 5%;
+    text-align: center;
+}
+
+button:hover {
+    border: 2px solid darkblue ;
+    background-color: turquoise;
+    -webkit-text-fill-color: darkblue
+}
+
+select:hover {
+    color: lightblue ;
+    background-color:darkblue;
+    -webkit-text-fill-color: whitesmoke;
+}
+
+
+p:hover {
+    color: lightblue ;
+    background-color:darkblue;
+    -webkit-text-fill-color: whitesmoke;
+}
+
+
+h1:hover {
+    color: lightblue ;
+    background-color:darkblue;
+    -webkit-text-fill-color: whitesmoke;
+}
+
+
+h4:hover {
+    color: lightblue ;
+    background-color:darkblue;
+    -webkit-text-fill-color: whitesmoke;
+}
+
+input:hover {
+    color: lightblue ;
+    background-color:darkblue;
+    -webkit-text-fill-color: whitesmoke;
+}
+
+p:hover {
+    color: lightblue ;
+    background-color:darkblue;
+    -webkit-text-fill-color: whitesmoke;
+}
+
+li:hover {
+    color: lightblue ;
+    background-color:darkblue;
+    -webkit-text-fill-color: whitesmoke;
+}
+
+
+a {
+    border: 2px solid darkred ;
+    background-color: pink;
+    -webkit-text-fill-color: darkred
+}
+
+a:hover {
+    border: 2px solid darkblue ;
+    background-color: turquoise;
+    -webkit-text-fill-color: darkblue
+}

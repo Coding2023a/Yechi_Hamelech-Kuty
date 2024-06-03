@@ -1,0 +1,47 @@
+#navbar {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(10, 72, 241);
+}
+
+#title {
+    flex: 30%;
+    text-align: center;
+}
+#navlinks {
+    display: flex;
+    justify-content: space-around;
+    flex: 70%;
+}
+a {
+    text-decoration: none;
+    font-size: x-large;
+}
+
+#images-div {
+    display: flex;
+    overflow: hidden;
+}
+
+img {
+    max-width: 100%;
+    margin: 1%;
+
+}
+
+
+img:hover{
+    transform: scale(1.2);
+}
+image id{max-width: 35;}
+
+@media screen and (min-width: 601px)
+    img {
+        max-width: 23%;
+    }
+.hello-5-8 {
+    max-width: 10%;
+}
+.hello-0-4 {
+    max-width: 15%;
+}
